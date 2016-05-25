@@ -4,7 +4,7 @@
 
 ### Crear un repositorio en vuestro GitHub llamado campusciff
 
-![](C:\Users\66880816\Desktop\GitHub/1.png)
+![](C:\Users\66880816\Desktop\GitHub\1.png)
 
 ### Clonar vuestro repositio en local.
 
@@ -62,11 +62,11 @@ git push origin master
 
 ### Poner una foto en vuestro perfil de GitHub. 
 
-![](C:\Users\66880816\Desktop\GitHub/2.png)
+![](C:\Users\66880816\Desktop\GitHub\2.png)
 
 ### Poner el doble factor de autentificación en vuestra cuenta de GitHub
 
-![](C:\Users\66880816\Desktop\GitHub/3.png)
+![](C:\Users\66880816\Desktop\GitHub\3.png)
 
 ### Añadir (si no lo habéis hecho ya) la clave pública que se corresponde a tu ordenador
 
@@ -80,7 +80,7 @@ ssh -T git@github.com
 
 ### Preguntar los nombres de usuario de GitHub de tus compañeros de clase, búscalos, y sigueles. Seguir los repositorios campusciff del resto de tus compañeros. Añadir una estrella a los repositorios campusciff del resto de tus compañeros.
 
-![](C:\Users\66880816\Desktop\GitHub/4.png)
+![](C:\Users\66880816\Desktop\GitHub\4.png)
 
 ### Crear una tabla de este estilo en el fichero README.md con la información de varios de tus compañeros de clase:
 
@@ -100,7 +100,7 @@ ssh -T git@github.com
 
 ### Poner a github.com/asanzdiego como colaborador del repositorio campusciff
 
-![](C:\Users\66880816\Desktop\GitHub/5.png)
+![](C:\Users\66880816\Desktop\GitHub\5.png)
 
 
 # Ejercicio práctico sobre la utilización avanzada de Git, GitHub y Markdown 
@@ -181,7 +181,7 @@ git list
 
 ### Crear una organización llamada campusciff-tunombredeusuariodegithub 
 
-![](C:\Users\66880816\Desktop\GitHub/6.png)
+![](C:\Users\66880816\Desktop\GitHub\6.png)
 
 ### Crear 2 equipos en la organización campusciff-tunombredeusuariodegithub, uno llamado administradores con más permisos y otro colaboradores con menos permisos. 
 
