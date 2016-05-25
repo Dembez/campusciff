@@ -4,7 +4,7 @@
 
 ### Crear un repositorio en vuestro GitHub llamado campusciff
 
-![Creative	Commons	BY	SA](C:\Users\66880816\Desktop\GitHub\1.png)
+![Creative	Commons	BY	SA](../1.png)
 
 ### Clonar vuestro repositio en local.
 
